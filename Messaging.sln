@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebService", "WebService\WebService.csproj", "{CEFF6230-E9B3-448A-841F-F2411324FC8C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Worker", "Worker\Worker.csproj", "{969DC841-D895-4FD6-AFDC-5037AE327531}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Services", "Services\Services.csproj", "{FE8E2A0A-F28A-46E9-9757-55733495CF5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEFF6230-E9B3-448A-841F-F2411324FC8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEFF6230-E9B3-448A-841F-F2411324FC8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEFF6230-E9B3-448A-841F-F2411324FC8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEFF6230-E9B3-448A-841F-F2411324FC8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{969DC841-D895-4FD6-AFDC-5037AE327531}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{969DC841-D895-4FD6-AFDC-5037AE327531}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{969DC841-D895-4FD6-AFDC-5037AE327531}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{969DC841-D895-4FD6-AFDC-5037AE327531}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE8E2A0A-F28A-46E9-9757-55733495CF5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE8E2A0A-F28A-46E9-9757-55733495CF5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE8E2A0A-F28A-46E9-9757-55733495CF5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE8E2A0A-F28A-46E9-9757-55733495CF5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C330C6B8-77F4-41EF-ACB0-5C13406482D4}
+	EndGlobalSection
+EndGlobal
